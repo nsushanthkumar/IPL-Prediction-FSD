@@ -1,0 +1,29 @@
+
+.table-orange{
+    background-color: rgb(249, 213, 145);
+}
+.bg-grey{
+    background-color: rgb(235, 237, 239);
+}
+.bg-pink{
+    background-color: pink;
+}
+.navbar-brand{
+    font-family: 'Pacifico', cursive;
+
+}
+.analysis{
+    font-family: 'Pacifico', cursive;
+
+}
+tbody{
+    font-family: 'Ubuntu', sans-serif;
+}
+#captains{
+    font-family: 'Nunito Sans', sans-serif;
+}
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
